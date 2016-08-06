@@ -1,0 +1,40 @@
+_repo: Washington-and-his-colleagues--a-chronicle-of-the-rise-and-fall-of-federalism_11702
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ford, Henry Jones
+    alias: Ford, Henry J. (Henry Jones)
+    birthdate: 1851
+    deathdate: 1925
+    gutenberg_agent_id: '5836'
+    url: http://www.gutenberg.org/2009/agents/5836
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Jones_Ford
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11702'
+language: en
+publication_note: 'New Haven :  Yale University Press,  1918'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 14
+subjects:
+- !lcsh 'Washington, George, 1732-1799'
+- !lcsh 'United States -- History -- Constitutional period, 1789-1809'
+- !lcc 'E300'
+- !lcsh 'Federal Party (U.S.)'
+- GITenberg
+title: Washington and his colleagues; a chronicle of the rise and fall of federalism
+url: http://www.gutenberg.org/ebooks/11702
